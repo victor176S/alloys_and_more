@@ -5,8 +5,6 @@ import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-//hola
-
 public class AlloysAndMore implements ModInitializer {
 	public static final String MOD_ID = "alloys_and_more";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
