@@ -8,6 +8,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 //adios
+//mipae
 
 public class AlloysAndMore implements ModInitializer {
 	public static final String MOD_ID = "alloys_and_more";
