@@ -2,12 +2,12 @@ package com.alexans.alloysandmore;
 
 import net.fabricmc.api.ModInitializer;
 
-// Skibidi Toilet vs Toilet Skibidi
+
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-//adios
+
 
 public class AlloysAndMore implements ModInitializer {
 	public static final String MOD_ID = "alloys_and_more";
