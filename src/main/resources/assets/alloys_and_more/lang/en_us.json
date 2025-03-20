@@ -1,0 +1,18 @@
+
+
+{
+  "//comentario": "no se pueden escribir comentarios en jsons asi que lo hago asi xd",
+  "//comentario": "este es el apartado para el ingles de estados unidos, lo primero indica en que directorio",
+  "//comentario": "está el item, que corresponde a (item/pruebamod) y luego el objeto",
+  "//comentario": "luego en verde es el nombre que quieras que aparezca en el juego",
+
+
+
+  "item.alloys_and_more.coppery_iron_ingot": "Coppery iron ingot",
+  "item.alloys_and_more.raw_coppery_iron": "Raw coppery iron",
+
+  "block.alloys_and_more.coppery_iron_block": "Block of Coppery iron",
+
+  "itemgroup.coppery_iron": "Coppery iron Tab"
+
+}
