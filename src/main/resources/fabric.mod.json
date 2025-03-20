@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "alloys-and-more",
+	"version": "${version}",
+	"name": "Alloys and More!",
+	"description": "Did you ever thought about mixing materials? well, then this mod is for you, not only adds alloys but also new minerals!",
+	"authors": [
+		"Alexans,Víctor and"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/alloys-and-more/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.alexans.alloysandmore.AlloysAndMore"
+		],
+		"client": [
+			"com.alexans.alloysandmore.AlloysAndMoreClient"
+		],
+		"fabric-datagen": [
+			"com.alexans.alloysandmore.AlloysAndMoreDataGenerator"
+		]
+	},
+	"mixins": [
+		"alloys_and_more.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
